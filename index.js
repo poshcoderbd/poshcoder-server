@@ -45,8 +45,8 @@ app.use(cors({
   origin: [
     'http://localhost:4000',
     'http://localhost:3002',
-    'https://admin.poshcoder.com',
-    'https://www.poshcoder.com',
+    'https://admin.poshcoderit.com',
+    'https://www.poshcoderit.com',
     'https://poshcoder-client.vercel.app',
     'https://poshcoder-admin.vercel.app'
   ], credentials: true
